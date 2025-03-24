@@ -3,9 +3,9 @@
 Bem-vindo ao **Meu Portfólio**! Este é um projeto que exibe suas habilidades, cursos e projetos de forma atrativa e elegante. Abaixo, você encontrará as informações e configurações necessárias para entender e personalizar este portfólio.
 
 # 📚 Tecnologias Utilizadas
-⚡ HTML - Linguagem de marcação para estruturação do conteúdo
-🎨 CSS - Estilos para personalização da aparência
-📸 Imagens - Arquivos de imagem utilizados para ilustrar o portfólio
+⚡ **HTML**- Linguagem de marcação para estruturação do conteúdo.
+🎨 **CSS** - Estilos para personalização da aparência.
+📸 **Imagens** - Arquivos de imagem utilizados para ilustrar o portfólio.
 
 ## 💻 Estrutura do Projeto
 
