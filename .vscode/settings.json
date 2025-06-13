@@ -1,0 +1,37 @@
+
+{
+  "textMateRules": [
+    {
+      "scope": "variable",
+      "settings": {
+        "foreground": "#00FF7F"  // Verde esmeralda
+      }
+    },
+    {
+      "scope": "entity.name.function",
+      "settings": {
+        "foreground": "#00BFFF"  // Azul neon
+      }
+    },
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#7CFC00",  // Verde claro
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#C678DD"  // Roxo neon
+      }
+    },
+    {
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#4169E1",  // Azul royal
+        "fontStyle": "bold"
+      }
+    }
+  ]
+}
